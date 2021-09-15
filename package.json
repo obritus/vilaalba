@@ -1,0 +1,27 @@
+{
+	"name": "vilaalba",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"start": "next start",
+		"build": "next build",
+		"lint": "next lint"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"bootstrap": "^5.1.1",
+		"lint": "^0.7.0",
+		"next": "^11.1.2",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"styled-components": "^5.3.1"
+	},
+	"devDependencies": {
+		"eslint": "7.32.0",
+		"eslint-config-next": "11.1.2"
+	}
+}
